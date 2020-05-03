@@ -1,3 +1,13 @@
 
-my_string= " a b c d 1 2 3 4 " [::-1]
-print(my_string)
+
+#         بسم الله الرحمن الرحيم
+# My first line of pyhton programming
+# The code will ask you to enter a string
+# It will return the revese of the string
+
+
+x = input("Type a string to revers please   : ")
+y = x [::-1]
+print ( " The reverse of what you have entered is ")
+print ( y)
+print ( " clever isn't ?? Have a nice day ")
